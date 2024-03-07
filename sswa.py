@@ -1,4 +1,4 @@
-__version__ = 20240306.1
+version = 20240306.1
 
 class parse:
     class rabbit1:
