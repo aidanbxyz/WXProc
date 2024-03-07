@@ -2,6 +2,8 @@
 
 Simple Python library for processing data from [AMMETS SSWA Weather Sensors](https://github.com/aidanbxyz/WXLogs)
 
+[![DOI](https://zenodo.org/badge/768431185.svg)](https://zenodo.org/doi/10.5281/zenodo.10791452)
+
 ## Setup
 
 Move the sswa.py file into your project's directory or your working directory and `import sswa`
